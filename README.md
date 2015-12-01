@@ -1,6 +1,8 @@
 # cerebral-log
 
-Automatic logging for cerebral. It's an early draft with bugs and many breaking changes!
+A log helper for cerebral. Logs system events by default but can also be used for custom logs.
+
+It's an early draft with bugs and many breaking changes to come!
 
 ```
 import CerebralLog from 'cerebral-log'
