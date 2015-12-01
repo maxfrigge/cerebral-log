@@ -26,7 +26,7 @@ When `globalLog = true` the `log` object from `loglevel` will be expose in the g
 ```
 log.enableAll()
 log.diasbleAll()
-log.setLeve('info')
+log.setLevel('info')
 ```
 
 For a complete reference of `loglevel` please visit it's github repository.
